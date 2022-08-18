@@ -1,3 +1,38 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Rajdhani', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    src: url(../resources/fonts/Rajdhani/Rajdhani-Light.ttf) format('woff2');
+}
+
+@font-face {
+    font-family: 'Rajdhani', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../resources/fonts/Rajdhani/Rajdhani-Regular.ttf) format('woff2');
+}
+
+@font-face {
+    font-family: 'Rajdhani', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    src: url(../resources/fonts/Rajdhani/Rajdhani-Medium.ttf) format('woff2');
+}
+
+@font-face {
+    font-family: 'Rajdhani', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    src: url(../resources/fonts/Rajdhani/Rajdhani-SemiBold.ttf) format('woff2');
+}
+
+@font-face {
+    font-family: 'Rajdhani', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    src: url(../resources/fonts/Rajdhani/Rajdhani-Bold.ttf) format('woff2');
+}
